@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I,m currently working at the Iranian Service Desk (ICSCO) Company.
+Aspiring front-end developer, learning by building and exploring modern web technologies.
 
 
 # 💻 Tech Stack:
